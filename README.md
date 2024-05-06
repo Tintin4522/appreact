@@ -18,5 +18,5 @@ Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur pour
 
 la base de l'application est ==> `app/page.js`. La page se mettra à jour automatiquement par cette élement
 
-
+Commande pour installer next.JS : npm install next react react-dom
 
